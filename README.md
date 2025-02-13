@@ -2,7 +2,7 @@
 
 > See our launch [blog post](https://tech.buzzfeed.com/unleashing-the-a6a1a5da39d6) for more information!
 
-[![CircleCI](https://circleci.com/gh/buzzfeed/sso.svg?style=svg)](https://circleci.com/gh/buzzfeed/sso)
+[![CircleCI](https://circleci.com/gh/buzzfeed/sso.svg?style=svg)](https://app.circleci.com/pipelines/github/buzzfeed/sso)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 [![Docker Automated build](https://img.shields.io/docker/automated/buzzfeed/sso.svg)](https://hub.docker.com/r/buzzfeed/sso/)
 [![codecov.io](https://codecov.io/github/buzzfeed/sso/coverage.svg?branch=main)](https://codecov.io/github/buzzfeed/sso?branch=main)
